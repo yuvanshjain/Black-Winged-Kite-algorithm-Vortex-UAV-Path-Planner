@@ -21,7 +21,7 @@ Features a Jupyter Notebook interface running on the Zynq Processing System (PS)
 * **Press `Backspace`** to instantly undo/remove the last added obstacle.
 * **Press `c`** to clear the entire map.
 * **Press `Enter`** to trigger the hardware execution via AXI-Lite and generate the optimal flight trajectory.
-  
+  <br>
   <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/3244a55a-c18d-4abb-be77-89dbbfcf381b" />
 
 
