@@ -2,7 +2,7 @@
 
 **A full-stack hardware/software co-design implementing the Black-Winged Kite Algorithm (BKA) for real-time, obstacle-aware UAV path planning on the Zynq-7000 SoC.**
 
-![Zynq-7000](https://img.shields.io/badge/Target-Zynq--7000%20SoC-blue) ![Speedup](https://img.shields.io/badge/Acceleration-5x%2B%20Faster-success) ![LUTs](https://img.shields.io/badge/LUT_Utilization-~40%25-brightgreen) ![DSPs](https://img.shields.io/badge/DSP_Utilization-<50%25-brightgreen) 
+![Zynq-7000](https://img.shields.io/badge/Target-Zynq--7000%20SoC-blue) ![Speedup](https://img.shields.io/badge/Acceleration-5x%2B%20Faster-success) ![LUTs](https://img.shields.io/badge/LUT_Utilization-~40%25-brightgreen) ![DSPs](https://img.shields.io/badge/DSP_Utilization-%3C50%25-brightgreen)
 
 ## 📌 Overview
 This repository contains the high-level synthesis (HLS) C++ hardware engine and the interactive Python (PYNQ) overlay for a dynamic path-planning agent. It utilizes an Improved Metaheuristic Black-Winged Kite Algorithm (IMBKA) coupled with a custom vortex evasion protocol to navigate dense obstacle maps. 
